@@ -1,6 +1,6 @@
 <div>
   <div align="center">
-    <img src="https:/[/github.com/Dprof-in-tech/Dprof-in-tech/assets/116242877/6a987770-ba0a-48d0-bfec-a47526b8c266" alt="Header image" style="width:](https://res.cloudinary.com/ddnvits0b/image/upload/v1779404304/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png) 100%; height: auto;"/>
+    <img src="https://res.cloudinary.com/ddnvits0b/image/upload/v1779404304/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png" alt="Header image" style="width:](https://res.cloudinary.com/ddnvits0b/image/upload/v1779404304/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png) 100%; height: auto;"/>
   </div>
   <br/>
   <div align="start">

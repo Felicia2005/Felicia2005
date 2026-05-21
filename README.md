@@ -1,15 +1,15 @@
 <div>
   <div align="center">
-    <img[ src="https://res.cloudinary.com/ddnvits0b/image/upload/v1779404304/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png" alt="Header image" ](https://res.cloudinary.com/ddnvits0b/image/upload/v1779404777/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png)style="width:](https://res.cloudinary.com/ddnvits0b/image/upload/v1779404304/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png) 100%; height: auto;"/>
+    <img src="https://res.cloudinary.com/ddnvits0b/image/upload/v1779404777/ChatGPT_Image_May_21_2026_11_51_46_PM_rgthib.png" alt="Header image" style="width: 100%; height: auto;"/>
   </div>
   <br/>
   <div align="start">
     
-  ## Hello, Bolaji Felicia
-  Frontend @Felicia
+  ## Hello, Ayotomiwa David 
+  Frontend @techthoth
 
   ### Catch up with me on:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)[} [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayotomiwa-david-309a68327) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DenmarkDecoder) 
   [![](https://visitcount.itsvg.in/api?id=dprof-in-tech&icon=0&color=0)](https://visitcount.itsvg.in)
   </div>
   
